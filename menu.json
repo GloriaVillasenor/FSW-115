@@ -1,0 +1,96 @@
+{
+    "menu": [
+
+        {
+            "name": "Appetizers",
+            "menu-items": 
+                {
+                    "name": "Wings",
+                    "ingredients": "Chicken wing, Sauce, Seasoning",
+                    "discription": "Tender, Spicy and Juicy. bone-in or bone-out"
+                }
+        },
+        {
+            "name": "Appetizers",
+            "menu-items": 
+                {
+                    "name": "Spinich Dip",
+                    "ingredients": "Spinich, Cream Chesse",
+                    "discription": "Creamy Sauce with Spinich"
+                }
+        },
+        {
+            "name": "Cold Sandwiches",
+            "menu-items": 
+                {
+                    "name": "cold cut",
+                    "ingredients": "Ham, Turkey, Bread, Chesse",
+                    "discription": "Cld cuts on choice of bread"
+                }
+        },
+        {
+            "name": "Cold Sandwiches",
+            "menu-items": 
+                {
+                    "name": "tuna",
+                    "ingredients": "tuna, bread, mayo ",
+                    "discription": "Tuna salad on choice of bread"
+                }
+        },
+        {
+            "name": "Hot Sandwiches",
+            "menu-items": 
+                {
+                    "name": "Grilled Chesse",
+                    "ingredients": "Chesse, Bread ",
+                    "discription": "Your choice of chesse grilled on bread"
+                }
+        },
+        {
+            "name": "Hot Sandwiches",
+            "menu-items": 
+                {
+                    "name": "tuna melt",
+                    "ingredients": "tuna, bread, chesse ",
+                    "discription": "Tuna on your choice of chesse melted on bread"
+                }
+        },
+        {
+            "name": "Desserts",
+            "menu-items": 
+                {
+                    "name": "Chessecake",
+                    "ingredients": "Cream chesse, milk, graham cracker ",
+                    "discription": "Classic Chessecake"
+                }
+        },
+        {
+            "name": "Desserts",
+            "menu-items": 
+                {
+                    "name": "Cupcake",
+                    "ingredients": "Cupcake mix, frosting",
+                    "discription": "Cupcake with frosting"
+                }
+        },
+        {
+            "name": "Drinks",
+            "menu-items": 
+                {
+                    "name": "Coffee",
+                    "ingredients": "Coffee grounds, decafe, regular, flavored",
+                    "discription": "Coffee your choice of decafe or regular"
+                }
+        },
+        {
+            "name": "Drinks",
+            "menu-items": 
+                {
+                    "name": "Tea",
+                    "ingredients": "Tea, decafe, regular, Hot, Cold",
+                    "discription": "Tea your choice of hot or cold"
+                }
+        }
+    ]
+}
+
