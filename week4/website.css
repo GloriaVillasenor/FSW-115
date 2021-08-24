@@ -1,0 +1,22 @@
+html {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    color: yellow;
+}
+
+.borderBox {
+    border-color: yellow;
+    border-width: 20px;
+    border-style: solid;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+button {
+    color: black;
+    background-color: yellow;
+    
+}
