@@ -1,0 +1,11 @@
+html {
+    background-color: rgb(220, 185, 243);
+    padding: 50px;
+}
+
+#todoList {
+    font-weight: bolder;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration-line: underline;
+}
